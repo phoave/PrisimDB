@@ -1,0 +1,11 @@
+{
+  "name": "prisimdb",
+  "version": "1.0.0",
+  "description": "Prisim Db is simple db i made out of bordem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
